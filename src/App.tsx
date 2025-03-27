@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div>
-      <h1>Aplicacion en React, hecho por Adrian Montaño</h1>
+      <h1>Aplicacion en React para AWS, hecho por Adrian Montaño</h1>
       
       
     </div>
